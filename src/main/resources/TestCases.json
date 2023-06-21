@@ -1,0 +1,22 @@
+{
+  "TestCase_1": {
+    "scenario": "bothCorrect",
+    "email": "srilekhachowdary19@gmail.com",
+    "password": "123456789@Code"
+  },
+  "TestCase_2": {
+    "scenario": "bothWrong",
+    "email": "123@gmail.com",
+    "password": "abc"
+  },
+  "TestCase_3": {
+    "scenario": "correctUsername",
+    "email": "srilekha1@gmail.com",
+    "password": "123"
+  },
+  "TestCase_4": {
+    "scenario": "correctPassword",
+    "email": "abc@gmail.com",
+    "password": "123@code"
+  }
+}
