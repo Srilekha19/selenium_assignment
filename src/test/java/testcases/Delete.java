@@ -68,20 +68,6 @@ public class Delete {
         s.clickYes();
         Thread.sleep(1000);
 
-
-
-//        m.setUname(Username);
-//        m.click();
-//        m.setPassword(password);
-//        m.clickLogin1();
-//        m.clickAccount();
-//        //m.clickSaveProfile();
-//        m.clickDel();
-//        // h.clickAddress();
-//        //h.clickClr();
-//        Thread.sleep(2000);
-//        driver.quit();
-
     }
 
 }
